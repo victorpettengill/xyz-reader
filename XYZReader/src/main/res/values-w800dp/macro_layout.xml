@@ -6,4 +6,5 @@
 
     <!-- detail -->
     <dimen name="detail_card_max_width">704dp</dimen>
+    <dimen name="overlaping_value">100dp</dimen>
 </resources>
